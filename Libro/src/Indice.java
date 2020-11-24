@@ -8,6 +8,8 @@ public class Indice
         System.out.println("Capítulo 2: Flujo de trabajo básico");
         System.out.println("Capítulo 3: Gestión de ramas");
         System.out.println("Capítulo 4: Repositorios remotos");
+        System.out.println("Capítulo 5: Conceptos avanzados");
+
     }
 
 }
